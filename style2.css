@@ -1,0 +1,62 @@
+
+*{
+    background-color: rgb(120, 155, 155);
+    margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+header{
+    border-bottom: 5px solid goldenrod;
+    margin-top: 30px;
+    padding-left: 25%;
+}
+.numbs{
+    
+    height: 20px;
+    border-radius: 12px;
+    margin-left: 43%;
+    margin-top: 20px;
+    background-color: rgb(202, 218, 202);
+}
+
+.tick{
+    padding-top: 30px;
+    padding-left: 35%;
+    
+}
+
+.countri{
+    padding-top: 30px;
+    padding-left: 40%;
+}
+
+.country{
+    padding-top: 20px;
+    background-color: rgb(202, 218, 202);
+    margin-left: 43%;
+    border-radius: 5px;
+}
+
+.pay{
+    background-color: rgba(141, 133, 47, 0.747);
+    font-family:fantasy;
+    padding-top: 10px;
+    height: 25px;
+    width: 50px;
+    margin-top: 10px;
+    margin-left: 47%;
+}
+
+.pay:hover{
+    background-color: rgb(122, 209, 209);
+}
+
+.origin{
+    margin-left: 35%;
+    padding-top: 30px;
+}
